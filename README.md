@@ -72,6 +72,9 @@
 ---
 <br>
 
+### [Exercise - 1 ](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_1%20(2).pdf)
+
+
 ### 2. Modules
 
 
