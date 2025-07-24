@@ -69,13 +69,17 @@
 - For large-scale test automation projects.
 - When working in agile/scrum teams needing frequent collaboration.
 
----
-<br>
 
 ### [Exercise - 1 ](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_1%20(2).pdf)
 
 
+### [Exercise - 2 (Navigate to SUT) ](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_2%20(2).pdf)
+
+---
+<br>
+
 ### 2. Modules
+
 
 
 ### 3. Model-Based Test Automation
