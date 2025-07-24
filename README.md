@@ -70,10 +70,9 @@
 - When working in agile/scrum teams needing frequent collaboration.
 
 
-### [Exercise - 1 (Workspace Setup) ](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_1%20(2).pdf)
+ [Exercise - 1 (Workspace Setup) ](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_1%20(2).pdf)
 
-
-### [Exercise - 2 (Navigate to SUT) ](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_2%20(2).pdf)
+ [Exercise - 2 (Navigate to SUT) ](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_2%20(2).pdf)
 
 ---
 <br>
