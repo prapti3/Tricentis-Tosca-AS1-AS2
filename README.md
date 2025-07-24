@@ -38,8 +38,10 @@
 <br>
 
 ## Multi User Workspace
+
+### 🔹 What is a Multi User Workspace?
 ```
-🔹 What is a Multi User Workspace?
+
 - A collaborative workspace setup where multiple testers work on the same Tosca project.
 - Connected to a common central repository (Tosca Server or TDS – Tosca Distributed Server).
 
@@ -82,10 +84,11 @@
 ###  Model-Based Test Automation
 
 ##🔹 What is Model-Based Test Automation?
-- Based Automation means creating test cases by reusing models (modules) instead of writing scripts manually.
-- In Tosca, these models are called Modules, which represent the UI/API elements of the system under test.
-
-  <br>
+```
+Based Automation means creating test cases by reusing models (modules) instead of writing scripts manually.
+In Tosca, these models are called Modules, which represent the UI/API elements of the system under test.
+```
+<br>
 
 ## 🔹 Key Concepts:
 - 🧩 Modules: Represent UI/API objects (like buttons, fields).
@@ -317,7 +320,7 @@ TBox FileOperations	File read/write or handling operations
 - ✅ Data-driven, modular, and easy to maintain
 
 
-#### [Exericse - 5 (Testcase Section)](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_5%20(1).pdf)
+### [Exericse - 5 (Testcase Section)](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_5%20(1).pdf)
 
 
 
