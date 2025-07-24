@@ -7,11 +7,15 @@
 - [Additional Material Base - 1 ](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/tree/main/AS1_Additional_Material_Base%20(1))
 - [Automation-Specialist-level -1](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/tree/main/Automation_Specialist_Level_1_Base%20(1))
 
+<br>
+
 
 ### Single User Workspace
 - A local workspace used by one user only.
 - No synchronization or version control with a shared repository.
 - Best for individual projects, learning, or PoC (Proof of Concept) work.
+
+<br>
 
 #### 🔹 Key Points:
 ```
@@ -21,6 +25,8 @@
 ✅ Easier setup; no need to configure Tosca Server or repository.
 
 ```
+
+<br>
 
 
 ### 🔹 When to Use:
@@ -38,6 +44,8 @@
 - Connected to a common central repository (Tosca Server or TDS – Tosca Distributed Server).
 
 ```
+
+<br>
 
 #### 🔹 Key Points:
 ```
