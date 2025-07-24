@@ -263,5 +263,62 @@ TBox FileOperations	File read/write or handling operations
 
 
 
+#### [Exercise - 4 (Identify Control by Prop and Anchor)](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_4%20(1).pdf)
+
+
+---
+<br>
+
+
+### 💠 Testcase 
+
+
+#### 🔹 What is a TestCase in Tosca?
+- A TestCase in Tosca is a sequence of TestSteps that performs an automated test on your application. It defines what to test, how to test, and what data to use.
+- It is the core object used for building your automation logic.
+
+<br>
+
+#### 🔹 Key Components of a TestCase:
+| Component           | Purpose                                       |
+| ------------------- | --------------------------------------------- |
+| **TestSteps**       | Actions to perform (click, set, verify, etc.) |
+| **TestStepValues**  | Specific values/data to be used in TestSteps  |
+| **TestCase Folder** | Logical grouping for organizing TestCases     |
+
+<br>
+
+
+#### 🔹 How to Create a TestCase:
+1. Go to TestCases section in Tosca Commander.
+2. Right-click a folder → Create TestCase.
+3. Drag and drop Modules to add TestSteps.
+4. Enter input/output values as needed.
+5. Link TestData if required.
+6. Run in ScratchBook or ExecutionList.
+
+
+<br>
+
+#### 🔹 Example (Login TestCase):
+| Step | Module        | Action | Value     |
+| ---- | ------------- | ------ | --------- |
+| 1    | `Username`    | Set    | `user123` |
+| 2    | `Password`    | Set    | `pass123` |
+| 3    | `LoginBtn`    | Click  | —         |
+| 4    | `WelcomeText` | Verify | `Welcome` |
+
+<br>
+
+
+#### 🔹 Features:
+- ✅ Reusable across multiple executions
+- ✅ Parameterization via TestCaseDesign or TCP
+- ✅ Data-driven, modular, and easy to maintain
+
+
+#### [Exericse - 5 (Testcase Section)](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_5%20(1).pdf)
+
+
 
 
