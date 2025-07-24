@@ -121,7 +121,8 @@
 
 <br>
 
+## [Exercise - 3 (Module Section)](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_3%20(1).pdf)
 
-### 4. Standard Modules 
+##  Standard Modules 
 
 
