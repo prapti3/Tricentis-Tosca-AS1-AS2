@@ -238,13 +238,11 @@ TBox FileOperations	File read/write or handling operations
 
 <br>
 
-### 📌 Example:
+📌 Example:
 - If a textbox has no unique ID but is next to a label “Email”, Tosca uses “Email” as the anchor to locate the textbox.
 
-
+---
 <br>
-
-
 
 ### 🔧 In XScan:
 - After scanning a control, you can:
