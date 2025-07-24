@@ -132,12 +132,16 @@ In Tosca, these models are called Modules, which represent the UI/API elements o
 - Standard Modules are predefined modules provided by Tosca for commonly used operations.
 - They are built-in and do not require scanning any application.
 
+<br>
+
 ### 🔹 Key Features:
 
 ##### 🛠️ Ready to use — no need to scan
 
 - 🔄 Useful for general actions (e.g., wait, open URL, close browser)
 - 📚 Located under Standard folder in the Modules section
+
+<br>
 
 ##### 🔹 Common Standard Modules:
 ```
@@ -150,6 +154,8 @@ TBox Verify	Verifies expected value
 TBox Loop	Loops through steps or data
 TBox FileOperations	File read/write or handling operations
 ```
+
+<br>
 
 #### 🔹 Why Use Standard Modules?
 - ✅ Save time — no scanning needed
@@ -213,6 +219,7 @@ TBox FileOperations	File read/write or handling operations
 ### 🔹 Identifying Controls by Properties and Anchor in Tosca
 - When Tosca scans elements (controls), it uses technical properties and sometimes anchor elements to reliably locate those controls during execution.
 
+<br>
 
 ### ✅ 1. Identify by Properties (Attributes):
  - Tosca checks HTML or technical properties like:
