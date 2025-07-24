@@ -70,7 +70,7 @@
 - When working in agile/scrum teams needing frequent collaboration.
 
 
-### [Exercise - 1 ](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_1%20(2).pdf)
+### [Exercise - 1 (Workspace Setup) ](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_1%20(2).pdf)
 
 
 ### [Exercise - 2 (Navigate to SUT) ](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_2%20(2).pdf)
@@ -78,11 +78,49 @@
 ---
 <br>
 
-### 2. Modules
+## Modules
+
+###  Model-Based Test Automation
+
+##🔹 What is Model-Based Test Automation?
+- Based Automation means creating test cases by reusing models (modules) instead of writing scripts manually.
+- In Tosca, these models are called Modules, which represent the UI/API elements of the system under test.
+
+  <br>
+
+## 🔹 Key Concepts:
+- 🧩 Modules: Represent UI/API objects (like buttons, fields).
+<br>
+  
+
+## 🧪 TestCases: Built using those modules — no need to write code.
+- 🔁 Reusable: Once a module is scanned, you can reuse it across many test cases.
+- 🖱️ Drag & Drop: TestSteps are created using a visual interface, not code.
+
+<br>
+
+## 🔹 How It Works in Tosca:
+```
+- Scan the application to create modules.
+- Create TestCases by dragging module elements into TestSteps.
+- Parameterize with TestData for flexibility.
+- Run the TestCase — Tosca handles the execution.
+```
+
+<br>
 
 
+## 🔹 Benefits:
+```
+✅ Faster automation
+✅ Easier maintenance
+✅ Low-code / no-code
+✅ Highly reusable
 
-### 3. Model-Based Test Automation
+```
+
+<br>
+
 
 ### 4. Standard Modules 
 
