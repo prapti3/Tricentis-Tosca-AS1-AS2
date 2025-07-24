@@ -165,10 +165,16 @@ TBox FileOperations	File read/write or handling operations
 - XScan (Tosca XModule Scanner) is Tosca’s tool for scanning and identifying elements (like buttons, fields, dropdowns) from an application’s UI or API.
 - It helps you create Modules, which are the building blocks for your TestCases.
 
+<br> 
+
+
 ### 🔹 Key Points:
 - 🔍 Used to scan desktop, web, mobile, or API applications.
 - 🧱 Generates Modules with controls (like Username field, Login button, etc.).
 - 🎯 Captures technical information behind the UI (XPath, ID, Name, etc.).
+
+<br>
+
 
 ### 🔹 Types of XScan:
 | Type            | Used For                            |
@@ -176,6 +182,8 @@ TBox FileOperations	File read/write or handling operations
 | **Tosca XScan** | For web/desktop/mobile applications |
 | **API Scan**    | For scanning APIs (REST/SOAP)       |
 
+
+<br>
 
 
 ### 🔹 How to Use XScan:
@@ -188,6 +196,7 @@ TBox FileOperations	File read/write or handling operations
 
 <br> 
 
+
 ### 🔹 Why is XScan Important?
 - ✅ No need to write locators manually.
 - ✅ Ensures accurate identification of elements.
@@ -195,6 +204,67 @@ TBox FileOperations	File read/write or handling operations
 
 ---
 <br>
+
+
+## Identify Controls by Properties in XScan
+
+### 🔹 Identifying Controls by Properties and Anchor in Tosca
+- When Tosca scans elements (controls), it uses technical properties and sometimes anchor elements to reliably locate those controls during execution.
+
+
+### ✅ 1. Identify by Properties (Attributes):
+ - Tosca checks HTML or technical properties like:
+
+| Property Type | Examples                 |
+| ------------- | ------------------------ |
+| ID            | `id="username"`          |
+| Name          | `name="email"`           |
+| Type          | `type="text"`            |
+| Class         | `class="form-control"`   |
+| InnerText     | Button text, labels      |
+| XPath/CSS     | Auto-generated if needed |
+
+- 🧠 Best Practice: Use unique and stable properties to avoid flaky tests.
+
+---
+<br>
+
+
+### ✅ 2. Identify by Anchor:
+- If a control doesn’t have unique properties, Tosca uses a nearby anchor element (like a label or surrounding text) to find it.
+
+- 🔹 How it works:
+    - Anchor is a neighboring element with stable identification.
+    - Tosca finds the control relative to this anchor.
+
+<br>
+
+### 📌 Example:
+- If a textbox has no unique ID but is next to a label “Email”, Tosca uses “Email” as the anchor to locate the textbox.
+
+
+<br>
+
+
+
+### 🔧 In XScan:
+- After scanning a control, you can:
+  - ✅ Adjust identification properties
+  - ➕ Add or change anchors
+  - ⚙️ Set weights to prioritize properties
+ 
+---
+<br>
+
+### 🔹 Summary:
+
+
+| Technique         | When to Use                                                    |
+| ----------------- | -------------------------------------------------------------- |
+| **By Properties** | Element has unique, stable attributes                          |
+| **By Anchor**     | Element has **no stable ID**, but nearby stable element exists |
+
+
 
 
 
