@@ -121,8 +121,80 @@
 
 <br>
 
-## [Exercise - 3 (Module Section)](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_3%20(1).pdf)
+### [Exercise - 3 (Module Section)](https://github.com/prapti3/Tricentis-Tosca-AS1-AS2/blob/main/Exercise/Exercise_3%20(1).pdf)
+
 
 ##  Standard Modules 
+
+### 🔹 What is a Standard Module in Tosca?
+- Standard Modules are predefined modules provided by Tosca for commonly used operations.
+- They are built-in and do not require scanning any application.
+
+### 🔹 Key Features:
+
+##### 🛠️ Ready to use — no need to scan
+
+- 🔄 Useful for general actions (e.g., wait, open URL, close browser)
+- 📚 Located under Standard folder in the Modules section
+
+##### 🔹 Common Standard Modules:
+```
+Standard Module	Purpose
+TBox Set	Sets a value in an input field
+TBox Click	Performs click action
+TBox Wait	Waits for a condition or time
+TBox Open URL	Opens a given URL in a browser
+TBox Verify	Verifies expected value
+TBox Loop	Loops through steps or data
+TBox FileOperations	File read/write or handling operations
+```
+
+#### 🔹 Why Use Standard Modules?
+- ✅ Save time — no scanning needed
+- ✅ Reliable and optimized by Tricentis
+- ✅ Can be used across all projects
+
+
+---
+<br>
+
+
+## XSCAN 
+
+### 🔹 What is XScan in Tosca?
+- XScan (Tosca XModule Scanner) is Tosca’s tool for scanning and identifying elements (like buttons, fields, dropdowns) from an application’s UI or API.
+- It helps you create Modules, which are the building blocks for your TestCases.
+
+### 🔹 Key Points:
+- 🔍 Used to scan desktop, web, mobile, or API applications.
+- 🧱 Generates Modules with controls (like Username field, Login button, etc.).
+- 🎯 Captures technical information behind the UI (XPath, ID, Name, etc.).
+
+### 🔹 Types of XScan:
+| Type            | Used For                            |
+| --------------- | ----------------------------------- |
+| **Tosca XScan** | For web/desktop/mobile applications |
+| **API Scan**    | For scanning APIs (REST/SOAP)       |
+
+
+
+### 🔹 How to Use XScan:
+
+- Open Tosca Commander.
+- Right-click a Module folder → Select Scan.
+- Choose the application window.
+- Start scanning elements.
+- Save → A Module is created with all scanned controls.
+
+<br> 
+
+### 🔹 Why is XScan Important?
+- ✅ No need to write locators manually.
+- ✅ Ensures accurate identification of elements.
+- ✅ Reusability — scanned Modules can be used in multiple test cases.
+
+---
+<br>
+
 
 
