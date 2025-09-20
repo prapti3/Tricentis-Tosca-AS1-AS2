@@ -1,0 +1,5 @@
+[Info] 20-09-2025 07:48:18: Auto-exclusion started
+[Info] 20-09-2025 07:48:18: 0/100 - Unused objects exclusion
+[Info] 20-09-2025 07:48:20: 50/100 - Unused objects exclusion
+[Info] 20-09-2025 07:48:20: 100/100 - Unused objects exclusion
+[Info] 20-09-2025 07:48:20: Auto-exclusion finished
