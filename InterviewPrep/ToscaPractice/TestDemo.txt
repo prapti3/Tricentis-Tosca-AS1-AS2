@@ -1,1 +1,2 @@
-﻿This is the file  from testing
+﻿This is the file  from testingThis is a Text Append file
+.  This is a Text Append file
