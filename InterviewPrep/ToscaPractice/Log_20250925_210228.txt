@@ -1,7 +1,7 @@
-[3] 15:12:30: Log started for 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\InterviewPrep\ToscaPractice\ToscaPractice.tws'
-[3] 15:12:30: Log level: 4
-[3] 15:12:30: Release: 16.0.0.3027
-[3] 15:12:31: Adding MetaInfo in SQLiteAdaptor
+[3] 21:02:28: Log started for 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\InterviewPrep\ToscaPractice\ToscaPractice.tws'
+[3] 21:02:28: Log level: 4
+[3] 21:02:28: Release: 16.0.0.3027
+[3] 21:02:28: Adding MetaInfo in SQLiteAdaptor
  + Type: [1] ExtendableObject
  + Type: [2] NamedObject
  + Type: [3] TCObject
@@ -675,40 +675,40 @@
  + Assoc: [185:191] Scenarios
  + Assoc: [187:192] Scenarios
 
-[3] 15:12:31: Execution Approval is disabled.
-[3] 15:12:31: No service discovery configured.
-[3] 15:12:32:  Save started!
-[3] 15:12:32: QTestIntegrationAddIn beginning to Export to QTest
-[3] 15:12:32: QTestIntegrationAddIn finished exporting objects to QTest
-[3] 15:12:32: QTestIntegrationAddIn beginning to unlink objects from QTest
-[3] 15:12:32: LinkTcToQTestService grouping testcases by same endpoint
-[3] 15:12:32: UnlinkTestEventService grouping TestEvents by same endpoint
-[3] 15:12:32: QTestIntegrationAddIn finished unlinking objects from QTest
-[3] 15:12:32:  Save finished!
-[4] 15:12:33:  ShowStatusInfo: 'New Project with Default-Folders created!'
-[3] 15:12:33:  Save started!
-[3] 15:12:33: QTestIntegrationAddIn beginning to Export to QTest
-[3] 15:12:33: QTestIntegrationAddIn finished exporting objects to QTest
-[3] 15:12:33: QTestIntegrationAddIn beginning to unlink objects from QTest
-[3] 15:12:33: LinkTcToQTestService grouping testcases by same endpoint
-[3] 15:12:33: UnlinkTestEventService grouping TestEvents by same endpoint
-[3] 15:12:33: QTestIntegrationAddIn finished unlinking objects from QTest
-[3] 15:12:33:  Save finished!
-[4] 15:12:33:  ShowStatusInfo: 'Workspace 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\InterviewPrep\ToscaPractice\ToscaPractice.tws' created successfully!'
-[4] 15:12:33:  ShowStatusInfo: 'Importing workspace template, please wait...'
-[4] 15:12:38:  ShowStatusInfo: 'Import Subset finalizing ... '
-[4] 15:12:38:  ShowStatusInfo: 'Import Subset finished'
-[3] 15:12:38: Task 'Import Subset' finished
-[4] 15:12:38:  ShowStatusInfo: 'Refresh  'WindowLabels''
-[4] 15:12:38:  ShowStatusInfo: 'Refresh all finished'
-[4] 15:12:38:  ShowStatusInfo: 'Workspace template successfully imported!'
-[3] 15:12:38:  Save started!
-[3] 15:12:38: QTestIntegrationAddIn beginning to Export to QTest
-[3] 15:12:38: QTestIntegrationAddIn finished exporting objects to QTest
-[3] 15:12:38: QTestIntegrationAddIn beginning to unlink objects from QTest
-[3] 15:12:38: LinkTcToQTestService grouping testcases by same endpoint
-[3] 15:12:38: UnlinkTestEventService grouping TestEvents by same endpoint
-[3] 15:12:38: QTestIntegrationAddIn finished unlinking objects from QTest
-[3] 15:12:39:  Save finished!
-[3] 15:12:43: Closing Workspace!
-[3] 15:12:43: Log closed!
+[3] 21:02:29: Execution Approval is disabled.
+[3] 21:02:29: No service discovery configured.
+[3] 21:02:29:  Save started!
+[3] 21:02:29: QTestIntegrationAddIn beginning to Export to QTest
+[3] 21:02:29: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 21:02:29: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 21:02:29: LinkTcToQTestService grouping testcases by same endpoint
+[3] 21:02:29: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 21:02:29: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 21:02:29:  Save finished!
+[4] 21:02:31:  ShowStatusInfo: 'New Project with Default-Folders created!'
+[3] 21:02:31:  Save started!
+[3] 21:02:31: QTestIntegrationAddIn beginning to Export to QTest
+[3] 21:02:31: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 21:02:31: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 21:02:31: LinkTcToQTestService grouping testcases by same endpoint
+[3] 21:02:31: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 21:02:31: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 21:02:31:  Save finished!
+[4] 21:02:31:  ShowStatusInfo: 'Workspace 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\InterviewPrep\ToscaPractice\ToscaPractice.tws' created successfully!'
+[4] 21:02:31:  ShowStatusInfo: 'Importing workspace template, please wait...'
+[4] 21:02:33:  ShowStatusInfo: 'Import Subset finalizing ... '
+[4] 21:02:33:  ShowStatusInfo: 'Import Subset finished'
+[3] 21:02:33: Task 'Import Subset' finished
+[4] 21:02:33:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:02:33:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:02:33:  ShowStatusInfo: 'Workspace template successfully imported!'
+[3] 21:02:33:  Save started!
+[3] 21:02:33: QTestIntegrationAddIn beginning to Export to QTest
+[3] 21:02:33: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 21:02:33: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 21:02:33: LinkTcToQTestService grouping testcases by same endpoint
+[3] 21:02:33: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 21:02:33: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 21:02:33:  Save finished!
+[3] 21:02:36: Closing Workspace!
+[3] 21:02:36: Log closed!
