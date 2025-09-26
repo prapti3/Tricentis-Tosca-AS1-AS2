@@ -1,0 +1,75 @@
+[3] 23:02:17: Log started for 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\InterviewPrep\StandardModule\StandardModule.tws'
+[3] 23:02:17: Log level: 4
+[3] 23:02:17: Release: 16.0.0.3027
+[3] 23:02:19: Execution Approval is disabled.
+[3] 23:02:19: No service discovery configured.
+[3] 23:02:19:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 23:02:19:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 23:02:19:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 23:02:19:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 23:02:19:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 23:02:19:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 23:02:19:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 23:02:19: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 23:02:20: Searcher found 0 results in 265.4549 ms
+[3] 23:02:20:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 23:02:20:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 23:02:20:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 23:02:20:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 23:02:20:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 23:02:20:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 23:02:20:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 23:02:20:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 23:02:20:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 23:02:20:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 23:02:20:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 23:02:20:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 23:02:20:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 23:02:20: Opened from Workspace File 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\InterviewPrep\StandardModule\StandardModule.tws'
+[3] 23:02:26: OpenWorkspace took 00:00:11.3563425 to finish
+[2] 23:02:26: Common repository is not available
+[4] 23:02:29:  ShowStatusInfo: 'Ready'
+[4] 23:02:38:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 23:02:38:  ShowStatusInfo: 'Ready'
+[4] 23:02:38:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 23:02:38:  ShowStatusInfo: 'Ready'
+[4] 23:02:38:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 23:02:38:  ShowStatusInfo: 'Refresh all finished'
+[4] 23:02:40:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 23:02:40:  ShowStatusInfo: 'Ready'
+[4] 23:02:40:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 23:02:40:  ShowStatusInfo: 'Ready'
+[4] 23:02:40:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 23:02:40:  ShowStatusInfo: 'Refresh all finished'
+[3] 23:03:25: Closing Workspace!
+[3] 23:03:25: Log closed!
