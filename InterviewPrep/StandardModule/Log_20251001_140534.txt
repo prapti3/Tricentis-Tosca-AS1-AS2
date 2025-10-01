@@ -8451,3 +8451,8 @@
 [3] 17:05:54: LinkTcToQTestService grouping testcases by same endpoint
 [3] 17:05:54: UnlinkTestEventService grouping TestEvents by same endpoint
 [3] 17:05:54: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 17:05:56:  Save finished!
+[4] 17:05:56:  ShowStatusInfo: 'Saved successfully'
+[4] 17:05:57:  ShowStatusInfo: 'Ready'
+[3] 17:06:36: Closing Workspace!
+[3] 17:06:36: Log closed!
