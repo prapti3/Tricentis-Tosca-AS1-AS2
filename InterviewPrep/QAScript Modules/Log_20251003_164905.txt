@@ -87,3 +87,6 @@
 [4] 16:49:24:  ShowStatusInfo: '1 object selected'
 [4] 16:49:24:  ShowStatusInfo: 'Ready'
 [4] 16:49:25:  ShowStatusInfo: '1 object selected'
+[4] 16:49:30:  ShowStatusInfo: 'Ready'
+[3] 16:50:14: Closing Workspace!
+[3] 16:50:14: Log closed!
