@@ -11990,3 +11990,18 @@
 [4] 10:49:04:  ShowStatusInfo: 'Update Outdated Values finished'
 [3] 10:49:04: Task 'Update Outdated Values' finished
 [4] 10:49:09:  ShowStatusInfo: 'Ready'
+[4] 10:49:15:  ShowStatusInfo: 'Saving ...'
+[3] 10:49:15:  Save started!
+[3] 10:49:15: QTestIntegrationAddIn beginning to Export to QTest
+[3] 10:49:15: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 10:49:15: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 10:49:15: LinkTcToQTestService grouping testcases by same endpoint
+[3] 10:49:15: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 10:49:15: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 10:49:16:  Save finished!
+[4] 10:49:16:  ShowStatusInfo: 'Saved successfully'
+[4] 10:49:16:  ShowStatusInfo: 'Ready'
+[4] 10:49:57:  ShowStatusInfo: '1 object selected'
+[4] 10:50:03:  ShowStatusInfo: 'Ready'
+[3] 10:50:47: Closing Workspace!
+[3] 10:50:47: Log closed!
