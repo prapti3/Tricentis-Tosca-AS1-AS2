@@ -1,0 +1,24 @@
+[3] 14:25:48: Log started for 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\QAScript Testing Cource\Tosca P1\Tosca P1.tws'
+[3] 14:25:48: Log level: 4
+[3] 14:25:48: Release: 16.0.0.3027
+[3] 14:25:49: Execution Approval is disabled.
+[3] 14:25:49: No service discovery configured.
+[3] 14:25:49:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 14:25:49:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 14:25:49:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 14:25:49:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 14:25:49:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 14:25:49:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 14:25:49:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 14:25:49: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 14:25:49: Searcher found 0 results in 108.3127 ms
+[3] 14:25:49:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 14:25:49:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 14:25:49:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 14:25:49:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 14:25:49:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 14:25:49:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 14:25:49:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 14:25:49:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 14:25:49:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
