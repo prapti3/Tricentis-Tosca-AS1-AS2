@@ -5074,3 +5074,5 @@
 [3] 21:16:14:  Save finished!
 [4] 21:16:14:  ShowStatusInfo: 'Saved successfully'
 [4] 21:16:15:  ShowStatusInfo: 'Ready'
+[3] 21:16:39: Closing Workspace!
+[3] 21:16:39: Log closed!
