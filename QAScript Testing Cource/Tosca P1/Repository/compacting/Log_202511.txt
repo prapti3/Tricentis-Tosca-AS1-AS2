@@ -5,3 +5,8 @@
 [Info] 07-11-2025 21:17:02: Auto-exclusion finished
 [Info] 07-11-2025 21:17:13: Compacting started
 [Info] 07-11-2025 21:17:13: 0/100 - Compacting Workspace
+[Info] 08-11-2025 13:19:33: Auto-exclusion started
+[Info] 08-11-2025 13:19:33: 0/100 - Unused objects exclusion
+[Info] 08-11-2025 13:19:37: 50/100 - Unused objects exclusion
+[Info] 08-11-2025 13:19:37: 100/100 - Unused objects exclusion
+[Info] 08-11-2025 13:19:37: Auto-exclusion finished
