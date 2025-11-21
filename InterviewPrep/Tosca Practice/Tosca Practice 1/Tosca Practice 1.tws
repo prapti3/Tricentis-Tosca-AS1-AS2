@@ -3,7 +3,7 @@
   <WorkspaceRepository>
     <RepoClass>SQLiteRepository</RepoClass>
     <DatabasePathAndName>.\Repository\Tosca Practice 1.db</DatabasePathAndName>
-    <Database>C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 &amp; AS2\Tosca Practice\Tosca Practice 1\Repository\Tosca Practice 1.db</Database>
+    <Database>C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 &amp; AS2\InterviewPrep\Tosca Practice\Tosca Practice 1\Repository\Tosca Practice 1.db</Database>
     <DatabaseUser />
     <DatabasePwd />
     <DatabaseSchema />
