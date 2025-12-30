@@ -1,0 +1,61 @@
+[3] 14:44:16: Log started for 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\Tricentis-Tosca-AS1-AS2\QAScript Testing Cource\Tosca P1\Tosca P1.tws'
+[3] 14:44:16: Log level: 4
+[3] 14:44:16: Release: 25.1.0.3382
+[3] 14:44:16: PimpUp started
+[3] 14:44:16: Adding MetaInfo in SQLiteAdaptor
+ + Type: [189] AttachedExecutionLogEntryFile
+ + Type: [190] PdfCompareResultFile
+ + Attr: [60:318] Skipped
+ + Attr: [60:319] AccessibilityResultData
+ + Attr: [79:317] MaximumParallelExecutions
+ + Attr: [104:320] CloudWorkspaceId
+ + Assoc: [60:193] PdfCompareResultFiles
+ + Assoc: [60:194] AttachedFiles
+
+[3] 14:44:16: Execution Approval is disabled.
+[3] 14:44:16: No service discovery configured.
+[3] 14:44:16:  + AccessibilityTestingUI: AccessibilityTestingUI 25.1.0.3382 (3382)
+[3] 14:44:16:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 25.1.0.3382 (3382)
+[3] 14:44:16:  + DistributedExecutionAddIn: DistributedExecutionAddIn 25.1.0.3382 (3382)
+[3] 14:44:16:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 25.1.0.3382 (3382)
+[3] 14:44:16:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 25.1.0.3382 (3382)
+[3] 14:44:16:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 25.1.0.3382 (3382)
+[3] 14:44:16:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 25.1.0.3382 (3382)
+[3] 14:44:16:  + IntegrationManagementAddIn: IntegrationManagementAddIn 25.1.0.3382 (3382)
+    + : SAPSolutionManagerIntegration 25.1.0.3382 (3382)
+[3] 14:44:16:  + QTestIntegrationAddIn: QTestIntegrationAddIn 25.1.0.3382 (3382)
+[3] 14:44:16:  + RemoteControl: RemoteControlAddIn 25.1.0.3382 (3382)
+[3] 14:44:16:  + Reporting: ReportingAddIn 25.1.0.3382 (3382)
+[3] 14:44:16:  + ReportingUI: ReportingUIAddIn 25.1.0.3382 (3382)
+[3] 14:44:16:  + RequirementsManagementAddIn: RequirementsManagement 25.1.0.3382 (3382)
+[3] 14:44:16:  + RequirementsManagementUIAddIn: RequirementsManagementUI 25.1.0.3382 (3382)
+[3] 14:44:16:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 25.1.0.3382 (3382)
+[3] 14:44:16:  + TestCaseDesign: TestCaseDesign 25.1.0.3382 (3382)
+[3] 14:44:16: Opened from Workspace File 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\Tricentis-Tosca-AS1-AS2\QAScript Testing Cource\Tosca P1\Tosca P1.tws'
+[2] 14:44:16: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 14:44:20:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 14:44:20:  ShowStatusInfo: 'Ready'
+[4] 14:44:20:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 14:44:20:  ShowStatusInfo: 'Ready'
+[4] 14:44:20:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 14:44:20:  ShowStatusInfo: 'Refresh all finished'
+[3] 14:44:20: OpenWorkspace took 00:00:05.0704541 to finish
+[2] 14:44:20: Common repository is not available
+[4] 14:44:25:  ShowStatusInfo: 'Ready'
+[4] 14:44:26:  ShowStatusInfo: '1 object selected'
+[4] 14:44:31:  ShowStatusInfo: 'Ready'

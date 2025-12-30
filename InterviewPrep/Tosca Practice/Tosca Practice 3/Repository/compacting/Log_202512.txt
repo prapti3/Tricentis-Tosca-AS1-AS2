@@ -94,3 +94,6 @@
 [Info] 27-12-2025 09:08:28: 76/100 - Defragmenting Data - [estimated time left 7 s]
 [Info] 27-12-2025 09:08:29: 79/100 - Defragmenting Data - [estimated time left 6 s]
 [Info] 27-12-2025 09:08:30: 83/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 27-12-2025 09:08:31: 86/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 27-12-2025 09:08:32: 89/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 27-12-2025 09:08:33: 93/100 - Defragmenting Data - [estimated time left 1 s]

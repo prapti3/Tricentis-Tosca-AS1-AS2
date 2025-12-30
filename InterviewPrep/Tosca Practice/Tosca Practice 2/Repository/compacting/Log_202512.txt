@@ -1,0 +1,8 @@
+[Info] 28-12-2025 14:58:55: 2/100 - Defragmenting Data - [estimated time left 20 s]
+[Info] 28-12-2025 14:58:56: 7/100 - Defragmenting Data - [estimated time left 19 s]
+[Info] 28-12-2025 14:58:56: Compacting started
+[Info] 28-12-2025 14:58:57: 12/100 - Defragmenting Data - [estimated time left 18 s]
+[Info] 28-12-2025 14:58:57: Compacting Workspace - Defragmentation finished in 00:00:01.0086764, database size: 6479872
+[Info] 28-12-2025 14:58:58: 16/100 - Defragmenting Data - [estimated time left 17 s]
+[Info] 28-12-2025 14:58:58: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.2761498, database size: 6479872
+[Info] 28-12-2025 14:58:58: Compacting finished

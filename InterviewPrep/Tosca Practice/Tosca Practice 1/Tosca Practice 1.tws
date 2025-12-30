@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TCWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <WorkspaceRepository>
     <RepoClass>SQLiteRepository</RepoClass>
     <DatabasePathAndName>.\Repository\Tosca Practice 1.db</DatabasePathAndName>
-    <Database>C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 &amp; AS2\InterviewPrep\Tosca Practice\Tosca Practice 1\Repository\Tosca Practice 1.db</Database>
+    <Database>C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 &amp; AS2\Tricentis-Tosca-AS1-AS2\InterviewPrep\Tosca Practice\Tosca Practice 1\Repository\Tosca Practice 1.db</Database>
     <DatabaseUser />
     <DatabasePwd />
     <DatabaseSchema />
