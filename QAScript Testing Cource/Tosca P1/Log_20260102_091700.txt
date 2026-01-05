@@ -1,0 +1,98 @@
+[3] 09:17:00: Log started for 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\Tricentis-Tosca-AS1-AS2\QAScript Testing Cource\Tosca P1\Tosca P1.tws'
+[3] 09:17:00: Log level: 4
+[3] 09:17:00: Release: 25.1.0.3382
+[3] 09:17:00: Execution Approval is disabled.
+[3] 09:17:00: No service discovery configured.
+[3] 09:17:00:  + AccessibilityTestingUI: AccessibilityTestingUI 25.1.0.3382 (3382)
+[3] 09:17:00:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 25.1.0.3382 (3382)
+[3] 09:17:00:  + DistributedExecutionAddIn: DistributedExecutionAddIn 25.1.0.3382 (3382)
+[3] 09:17:00:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 25.1.0.3382 (3382)
+[3] 09:17:00:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 25.1.0.3382 (3382)
+[3] 09:17:00:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 25.1.0.3382 (3382)
+[3] 09:17:00:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 25.1.0.3382 (3382)
+[3] 09:17:00:  + IntegrationManagementAddIn: IntegrationManagementAddIn 25.1.0.3382 (3382)
+    + : SAPSolutionManagerIntegration 25.1.0.3382 (3382)
+[3] 09:17:00:  + QTestIntegrationAddIn: QTestIntegrationAddIn 25.1.0.3382 (3382)
+[3] 09:17:00:  + RemoteControl: RemoteControlAddIn 25.1.0.3382 (3382)
+[3] 09:17:00:  + Reporting: ReportingAddIn 25.1.0.3382 (3382)
+[3] 09:17:00:  + ReportingUI: ReportingUIAddIn 25.1.0.3382 (3382)
+[3] 09:17:00:  + RequirementsManagementAddIn: RequirementsManagement 25.1.0.3382 (3382)
+[3] 09:17:00:  + RequirementsManagementUIAddIn: RequirementsManagementUI 25.1.0.3382 (3382)
+[3] 09:17:00:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 25.1.0.3382 (3382)
+[3] 09:17:01:  + TestCaseDesign: TestCaseDesign 25.1.0.3382 (3382)
+[3] 09:17:01: Opened from Workspace File 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\Tricentis-Tosca-AS1-AS2\QAScript Testing Cource\Tosca P1\Tosca P1.tws'
+[2] 09:17:01: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 09:17:05:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:17:05:  ShowStatusInfo: 'Ready'
+[4] 09:17:05:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:17:05:  ShowStatusInfo: 'Ready'
+[4] 09:17:05:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:17:05:  ShowStatusInfo: 'Refresh all finished'
+[3] 09:17:05: OpenWorkspace took 00:00:05.7939074 to finish
+[2] 09:17:05: Common repository is not available
+[4] 09:17:10:  ShowStatusInfo: 'Ready'
+[4] 17:05:23:  ShowStatusInfo: '1 object selected'
+[4] 17:05:24:  ShowStatusInfo: 'Ready'
+[4] 17:05:24:  ShowStatusInfo: '1 object selected'
+[4] 17:05:28:  ShowStatusInfo: 'Ready'
+[4] 17:05:31:  ShowStatusInfo: '1 object selected'
+[4] 17:05:31:  ShowStatusInfo: 'Ready'
+[4] 17:05:32:  ShowStatusInfo: '1 object selected'
+[4] 17:05:32:  ShowStatusInfo: 'Ready'
+[3] 17:05:33: Task 'Create Folder' started on '/TestCases/TBox Modules'
+[4] 17:05:33:  ShowStatusInfo: 'Create Folder'
+[4] 17:05:34:  ShowStatusInfo: 'Ready'
+[4] 17:05:34:  ShowStatusInfo: 'Folder finalizing ...'
+[4] 17:05:34:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:05:34:  ShowStatusInfo: 'Ready'
+[4] 17:05:34:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:05:34:  ShowStatusInfo: 'Ready'
+[4] 17:05:34:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:05:34:  ShowStatusInfo: 'Refresh all finished'
+[4] 17:05:34:  ShowStatusInfo: 'Folder finished'
+[3] 17:05:34: Task 'Create Folder' finished
+[4] 17:05:34:  ShowStatusInfo: 'Ready'
+[4] 17:05:47:  ShowStatusInfo: 'Saving ...'
+[3] 17:05:47:  Save started!
+[3] 17:05:47: QTestIntegrationAddIn beginning to Export to QTest
+[3] 17:05:47: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 17:05:47: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 17:05:47: LinkTcToQTestService grouping testcases by same endpoint
+[3] 17:05:47: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 17:05:47: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 17:05:47:  Save finished!
+[4] 17:05:47:  ShowStatusInfo: 'Saved successfully'
+[4] 17:05:47:  ShowStatusInfo: 'Ready'
+[4] 18:13:27:  ShowStatusInfo: '1 object selected'
+[4] 18:13:32:  ShowStatusInfo: 'Ready'
+[3] 22:03:57: Closing Workspace!
+[3] 22:03:57: Log closed!

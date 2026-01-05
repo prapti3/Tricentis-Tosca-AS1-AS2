@@ -1,0 +1,42 @@
+[3] 18:52:41: Log started for 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\Tricentis-Tosca-AS1-AS2\QAScript Testing Cource\Tosca Workshop\Tosca Workshop.tws'
+[3] 18:52:41: Log level: 4
+[3] 18:52:41: Release: 25.1.0.3382
+[3] 18:52:41: Execution Approval is disabled.
+[3] 18:52:41: No service discovery configured.
+[3] 18:52:41:  Save started!
+[3] 18:52:41: QTestIntegrationAddIn beginning to Export to QTest
+[3] 18:52:41: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 18:52:41: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 18:52:41: LinkTcToQTestService grouping testcases by same endpoint
+[3] 18:52:41: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 18:52:41: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 18:52:41:  Save finished!
+[4] 18:52:42:  ShowStatusInfo: 'New Project with Default-Folders created!'
+[3] 18:52:42:  Save started!
+[3] 18:52:42: QTestIntegrationAddIn beginning to Export to QTest
+[3] 18:52:42: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 18:52:42: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 18:52:42: LinkTcToQTestService grouping testcases by same endpoint
+[3] 18:52:42: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 18:52:42: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 18:52:42:  Save finished!
+[4] 18:52:42:  ShowStatusInfo: 'Workspace 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\Tricentis-Tosca-AS1-AS2\QAScript Testing Cource\Tosca Workshop\Tosca Workshop.tws' created successfully!'
+[4] 18:52:42:  ShowStatusInfo: 'Importing workspace template, please wait...'
+[3] 18:52:42: Importing from the following subsets: C:\TOSCA_PROJECTS\ToscaCommander\Standard.tsu
+[2] 18:52:42: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=25.1.0.3382, Culture=en-IN, PublicKeyToken=null
+[2] 18:52:42: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=25.1.0.3382, Culture=en, PublicKeyToken=null
+[4] 18:52:42:  ShowStatusInfo: 'Import Subset finalizing ...'
+[4] 18:52:42:  ShowStatusInfo: 'Import Subset finished'
+[3] 18:52:42: Task 'Import Subset' finished
+[4] 18:52:42:  ShowStatusInfo: 'Workspace template successfully imported!'
+[3] 18:52:42:  Save started!
+[3] 18:52:42: QTestIntegrationAddIn beginning to Export to QTest
+[3] 18:52:42: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 18:52:42: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 18:52:42: LinkTcToQTestService grouping testcases by same endpoint
+[3] 18:52:42: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 18:52:42: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 18:52:42:  Save finished!
+[4] 18:52:45:  ShowStatusInfo: 'Ready'
+[3] 18:52:46: Closing Workspace!
+[3] 18:52:46: Log closed!
