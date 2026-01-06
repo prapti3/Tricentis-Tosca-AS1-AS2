@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\AS1 Additional Material Practice 1.db</DatabasePathAndName>
+    <Database>C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 &amp; AS2\InterviewPrep\Tosca Practice\AS1 Additional Material Practice 1\Repository\AS1 Additional Material Practice 1.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1ccf4a-f542-ce4e-cf65-0da4c9f9204e</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>1bf2d894-b20f-4c25-964c-4cef0a397488</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>

@@ -1,0 +1,101 @@
+[3] 21:24:49: Log started for 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\Tosca Practice\AS2 Practice\AS2 Practice.tws'
+[3] 21:24:49: Log level: 4
+[3] 21:24:49: Release: 16.0.0.3027
+[3] 21:24:49: Execution Approval is disabled.
+[3] 21:24:49: No service discovery configured.
+[3] 21:24:49:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 21:24:49: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 21:24:49: Searcher found 0 results in 22.9993 ms
+[3] 21:24:49:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 21:24:49:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 21:24:49:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 21:24:49:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 21:24:49:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 21:24:49:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 21:24:49: Opened from Workspace File 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\Tosca Practice\AS2 Practice\AS2 Practice.tws'
+[4] 21:24:55:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:24:55:  ShowStatusInfo: 'Ready'
+[4] 21:24:55:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh navigation view 'BI-Testing_import180831_1517_import181024_1124_import250831_1810''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:24:55:  ShowStatusInfo: 'Ready'
+[4] 21:24:55:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh detail view 'BI-Testing_import180831_1517_import181024_1124_import250831_1810''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:24:55:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:24:56:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:24:56:  ShowStatusInfo: 'Ready'
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'BI-Testing_import180831_1517_import181024_1124_import250831_1810''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:24:56:  ShowStatusInfo: 'Ready'
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'BI-Testing_import180831_1517_import181024_1124_import250831_1810''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh all finished'
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 21:24:56:  ShowStatusInfo: 'Ready'
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh navigation view 'BI-Testing_import180831_1517_import181024_1124_import250831_1810''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 21:24:56:  ShowStatusInfo: 'Ready'
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh detail view 'BI-Testing_import180831_1517_import181024_1124_import250831_1810''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 21:24:56:  ShowStatusInfo: 'Refresh all finished'
+[3] 21:24:56: OpenWorkspace took 00:00:08.2111180 to finish
+[2] 21:24:56: Common repository is not available
+[4] 21:24:57:  ShowStatusInfo: 'Ready'
+[3] 21:25:03: Closing Workspace!
+[3] 21:25:03: Log closed!

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\Tosca P1.db</DatabasePathAndName>
+    <Database>C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 &amp; AS2\Tricentis-Tosca-AS1-AS2\QAScript Testing Cource\Tosca P1\Repository\Tosca P1.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1d6eeb-3499-e599-4665-347c3d1fe9bc</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>3a6412e3-fa2b-436c-9d33-b72bead8d1db</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>

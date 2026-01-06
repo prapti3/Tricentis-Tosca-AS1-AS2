@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\Obstacles.db</DatabasePathAndName>
+    <Database>C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 &amp; AS2\Obstacles\Obstacles\Repository\Obstacles.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1b8590-bb37-fa31-397e-54139bb962da</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>f7a3f8a4-e44f-4411-bd5a-916537534bd8</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>

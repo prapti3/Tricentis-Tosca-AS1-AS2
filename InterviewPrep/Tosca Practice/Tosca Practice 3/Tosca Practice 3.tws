@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\Tosca Practice 3.db</DatabasePathAndName>
+    <Database>C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 &amp; AS2\Tricentis-Tosca-AS1-AS2\InterviewPrep\Tosca Practice\Tosca Practice 3\Repository\Tosca Practice 3.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1dfa8c-1ae0-5fa8-2a8f-f38ab5aa56e0</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>45fd1c5f-07bb-4b09-b0e5-475532f317dc</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>
