@@ -1,0 +1,120 @@
+Excel file 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\Tricentis-Tosca-AS1-AS2\Companies.xlsx' does not match file 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\Tricentis-Tosca-AS1-AS2\Demo.xlsx'
+
+Cell mismatch in Sheet1:
+- Reference: there is no value in cell A1
+- Target: value in cell A1 is 'Company Name'
+- Reference: there is no value in cell B1
+- Target: value in cell B1 is 'Address'
+- Reference: there is no value in cell A2
+- Target: value in cell A2 is 'Hexaware Technologies Ltd'
+- Reference: there is no value in cell B2
+- Target: value in cell B2 is 'Plot No. 3 (4th & 5th Floor, A Wing, Block 1/5), Embassy Tech Zone, Phase II, Rajiv Gandhi Infotech Park, Hinjewadi, Pune 411057. (Justdial)'
+- Reference: there is no value in cell A3
+- Target: value in cell A3 is 'Hexaware (Alternate)'
+- Reference: there is no value in cell B3
+- Target: value in cell B3 is 'Plot No. 19, Rajiv Gandhi Infotech Park, MIDC-SEZ, Phase III, Hinjewadi, Pune 411057. (Hexaware Technologies)'
+- Reference: there is no value in cell A4
+- Target: value in cell A4 is 'Capgemini Technology Services India Limited'
+- Reference: there is no value in cell B4
+- Target: value in cell B4 is 'Plot No. 14, Rajiv Gandhi Infotech Park, Hinjewadi Phase-III, MIDC-SEZ, Village Man, Taluka Mulshi, Pune 411057, Maharashtra. (Capgemini)'
+- Reference: there is no value in cell A5
+- Target: value in cell A5 is 'YASH Technologies'
+- Reference: there is no value in cell B5
+- Target: value in cell B5 is 'Plot No. 23/1, IT & ITES SEZ (MIDC), Rajiv Gandhi InfoTech Park, Hinjewadi Phase III, Pune 411057. (yash.com)'
+- Reference: there is no value in cell A6
+- Target: value in cell A6 is 'YASH (Alternate)'
+- Reference: there is no value in cell B6
+- Target: value in cell B6 is 'IT 3 Building, Ground Floor, Zone 4, Flagship Infrastructure Pvt Ltd SEZ, Survey No. 154/6, Near Rajiv Gandhi Infotech Park Phase I, Hinjewadi 411057. (Justdial)'
+- Reference: there is no value in cell A7
+- Target: value in cell A7 is 'HCL Technologies Ltd'
+- Reference: there is no value in cell B7
+- Target: value in cell B7 is 'Plot 6 & 8, Rajiv Gandhi Infotech Park, MIDC Phase I, Hinjewadi, Pune 411057. (You already had this but just confirming location)'
+- Reference: there is no value in cell A8
+- Target: value in cell A8 is 'Infosys Ltd'
+- Reference: there is no value in cell B8
+- Target: value in cell B8 is 'Plot No. 1, Rajiv Gandhi Infotech Park, Hinjewadi, Taluka Mulshi, Pune 411057. (From earlier mention)'
+- Reference: there is no value in cell A9
+- Target: value in cell A9 is 'MetLife India Insurance Company Ltd'
+- Reference: there is no value in cell B9
+- Target: value in cell B9 is 'C-804, No. 87/1A & 87, Amar Business Zone, Ganraj Chowk, Baner, Pune 411021. (Baner area)'
+- Reference: there is no value in cell A10
+- Target: value in cell A10 is 'Cognologix Technologies Pvt Ltd'
+- Reference: there is no value in cell B10
+- Target: value in cell B10 is 'Plot No 41 A1, Shivaji Housing Society, S B Road, Bhamburda, Pune 411016. (InstaFinancials)'
+- Reference: there is no value in cell A11
+- Target: value in cell A11 is 'Same company (alternate)'
+- Reference: there is no value in cell B11
+- Target: value in cell B11 is 'Flat No B10/2, Building No 2, Geras Emerald City, S.No 66/1, Baner, Pune 411045. (The Economic Times)'
+- Reference: there is no value in cell A12
+- Target: value in cell A12 is 'YASH Technologies'
+- Reference: there is no value in cell B12
+- Target: value in cell B12 is 'Plot No 23/1, IT & ITES SEZ (MIDC), Rajiv Gandhi InfoTech Park, Hinjewadi Phase III, Pune 411057. (tracxn.com)'
+- Reference: there is no value in cell A13
+- Target: value in cell A13 is 'Capgemini Technology Services India Ltd'
+- Reference: there is no value in cell B13
+- Target: value in cell B13 is 'Plot No 14, Rajiv Gandhi Infotech Park, Hinjewadi Phase III, MIDC-SEZ, Village Man, Taluka Mulshi, Pune 411057. (tracxn.com)'
+- Reference: there is no value in cell A14
+- Target: value in cell A14 is 'Hexaware Technologies Ltd'
+- Reference: there is no value in cell B14
+- Target: value in cell B14 is 'Plot No 3, 4th & 5th Floor, A Wing, Block 1/5, Embassy Tech Zone, Phase II, Rajiv Gandhi Infotech Park, Hinjewadi, Pune 411057. (tracxn.com)'
+- Reference: there is no value in cell A15
+- Target: value in cell A15 is 'HCL Technologies Ltd'
+- Reference: there is no value in cell B15
+- Target: value in cell B15 is 'Plot 6 & 8, Rajiv Gandhi Infotech Park, MIDC Phase I, Hinjewadi, Pune 411057. (tracxn.com)'
+- Reference: there is no value in cell A16
+- Target: value in cell A16 is 'Infosys Ltd'
+- Reference: there is no value in cell B16
+- Target: value in cell B16 is 'Plot No 1, Rajiv Gandhi Infotech Park, Hinjewadi, Taluka Mulshi, Pune 411057. (tracxn.com)'
+- Reference: there is no value in cell A17
+- Target: value in cell A17 is 'MetLife India Insurance Company Ltd'
+- Reference: there is no value in cell B17
+- Target: value in cell B17 is 'C-804, No 87/1A & 87, Amar Business Zone, Ganraj Chowk, Baner, Pune 411021. (You had this earlier but good to confirm.)'
+- Reference: there is no value in cell A18
+- Target: value in cell A18 is 'YASH Technologies (alternate)'
+- Reference: there is no value in cell B18
+- Target: value in cell B18 is 'IT3 Building, Ground Floor, Zone 4, Flagship Infrastructure Pvt Ltd SEZ, Survey No 154/6, Near Rajiv Gandhi Infotech Park Phase I, Hinjewadi 411057. (Alternate address found)'
+- Reference: there is no value in cell A19
+- Target: value in cell A19 is 'Cognologix Technologies Pvt Ltd (alternate)'
+- Reference: there is no value in cell B19
+- Target: value in cell B19 is 'Plot No 41 A1, Shivaji HSG Soc, S B Road, Bhamburda, Pune 411016.'
+- Reference: there is no value in cell A20
+- Target: value in cell A20 is 'Wipro Limited'
+- Reference: there is no value in cell B20
+- Target: value in cell B20 is 'Plot No. 2, Phase 1, MIDC, Near Rajiv Gandhi Infotech Park, Hinjewadi, Pune 411057. (Justdial)'
+- Reference: there is no value in cell A21
+- Target: value in cell A21 is 'Accelya Solutions India Limited'
+- Reference: there is no value in cell B21
+- Target: value in cell B21 is '5th & 6th Floor, Building No. 4, Raheja Woods, River Side 25A, West Avenue, Kalyani Nagar, Pune 411006. (Moneycontrol)'
+- Reference: there is no value in cell A22
+- Target: value in cell A22 is 'Synechron Technologies'
+- Reference: there is no value in cell B22
+- Target: value in cell B22 is 'A-Wing, Block 1.2 & 1.5, Embassy TechZone, Plot PL-3, Rajiv Gandhi Infotech Park, Hinjewadi Phase II, Pune 411057. (Fresher Jobs in Pune)'
+- Reference: there is no value in cell A23
+- Target: value in cell A23 is 'Tata Consultancy Services Limited (TCS)'
+- Reference: there is no value in cell B23
+- Target: value in cell B23 is 'Sahyadri Park, Plot 2 & 3, Rajiv Gandhi Infotech Park, Phase-III, Hinjewadi, Pune 411057. (Fresher Jobs in Pune)'
+- Reference: there is no value in cell A25
+- Target: value in cell A25 is 'Gravity Technology India'
+- Reference: there is no value in cell B25
+- Target: value in cell B25 is 'S. No. 29/1 2B/B Zone, 1st Floor Office No 115, Pimpri-Haveli, Old Mumbai-Pune Highway, Pune. (The Company Check)'
+- Reference: there is no value in cell A26
+- Target: value in cell A26 is 'Zinnia'
+- Reference: there is no value in cell B26
+- Target: value in cell B26 is 'Shop No. 40, 1st Floor, Sagar Plaza Arcade, Fergusson Road, Shivajinagar, Pune, Maharashtra 411004. (Dun & Bradstreet)'
+- Reference: there is no value in cell A27
+- Target: value in cell A27 is 'Synechron Technologies'
+- Reference: there is no value in cell B27
+- Target: value in cell B27 is 'A-Wing, Block 1.2 & 1.5, Embassy TechZone, Plot PL-3, Rajiv Gandhi InfoTech Park, Hinjewadi Phase II, Pune 411057. (from earlier list)'
+- Reference: there is no value in cell A28
+- Target: value in cell A28 is 'Tata Consultancy Services Limited (TCS)'
+- Reference: there is no value in cell B28
+- Target: value in cell B28 is 'Sahyadri Park, Plot 2 & 3, Rajiv Gandhi InfoTech Park, Phase III, Hinjewadi, Pune 411057. (from earlier list)'
+- Reference: there is no value in cell A29
+- Target: value in cell A29 is 'Wipro Limited'
+- Reference: there is no value in cell B29
+- Target: value in cell B29 is 'Plot No. 2, Phase 1, MIDC, Near Rajiv Gandhi InfoTech Park, Hinjewadi, Pune 411057. (from earlier list)'
+- Reference: there is no value in cell A30
+- Target: value in cell A30 is 'Accelya Solutions India Limited'
+- Reference: there is no value in cell B30
+- Target: value in cell B30 is '5th & 6th Floor, Building No. 4, Raheja Woods, Riverside 25A, West Avenue, Kalyani Nagar, Pune 411006. (from earlier list; note: not in Hinjewadi/Baner/Balewadi/Sangvi area)'
+

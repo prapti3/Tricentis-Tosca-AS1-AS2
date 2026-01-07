@@ -1,0 +1,54 @@
+[3] 12:22:01: Log started for 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\Tricentis-Tosca-AS1-AS2\QAScript Testing Cource\Tosca Workshop\Tosca Workshop.tws'
+[3] 12:22:01: Log level: 4
+[3] 12:22:01: Release: 25.1.0.3382
+[3] 12:22:01: Execution Approval is disabled.
+[3] 12:22:01: No service discovery configured.
+[3] 12:22:01:  + AccessibilityTestingUI: AccessibilityTestingUI 25.1.0.3382 (3382)
+[3] 12:22:01:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 25.1.0.3382 (3382)
+[3] 12:22:01:  + DistributedExecutionAddIn: DistributedExecutionAddIn 25.1.0.3382 (3382)
+[3] 12:22:01:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 25.1.0.3382 (3382)
+[3] 12:22:01:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 25.1.0.3382 (3382)
+[3] 12:22:01:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 25.1.0.3382 (3382)
+[3] 12:22:01:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 25.1.0.3382 (3382)
+[3] 12:22:01:  + IntegrationManagementAddIn: IntegrationManagementAddIn 25.1.0.3382 (3382)
+    + : SAPSolutionManagerIntegration 25.1.0.3382 (3382)
+[3] 12:22:01:  + QTestIntegrationAddIn: QTestIntegrationAddIn 25.1.0.3382 (3382)
+[3] 12:22:01:  + RemoteControl: RemoteControlAddIn 25.1.0.3382 (3382)
+[3] 12:22:01:  + Reporting: ReportingAddIn 25.1.0.3382 (3382)
+[3] 12:22:01:  + ReportingUI: ReportingUIAddIn 25.1.0.3382 (3382)
+[3] 12:22:01:  + RequirementsManagementAddIn: RequirementsManagement 25.1.0.3382 (3382)
+[3] 12:22:01:  + RequirementsManagementUIAddIn: RequirementsManagementUI 25.1.0.3382 (3382)
+[3] 12:22:01:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 25.1.0.3382 (3382)
+[3] 12:22:01:  + TestCaseDesign: TestCaseDesign 25.1.0.3382 (3382)
+[3] 12:22:01: Opened from Workspace File 'C:\Users\prapt\OneDrive\Desktop\Tricentis tosca AS1 & AS2\Tricentis-Tosca-AS1-AS2\QAScript Testing Cource\Tosca Workshop\Tosca Workshop.tws'
+[2] 12:22:01: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 12:22:13:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:22:13:  ShowStatusInfo: 'Ready'
+[4] 12:22:13:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:22:13:  ShowStatusInfo: 'Ready'
+[4] 12:22:13:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 12:22:13:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:22:13:  ShowStatusInfo: 'Ready'
+[4] 12:22:13:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:22:13:  ShowStatusInfo: 'Ready'
+[4] 12:22:13:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:22:14:  ShowStatusInfo: 'Refresh all finished'
+[3] 12:22:14: OpenWorkspace took 00:00:13.1165658 to finish
+[2] 12:22:14: Common repository is not available
+[4] 12:22:18:  ShowStatusInfo: 'Ready'
+[3] 14:21:16: Closing Workspace!
+[3] 14:21:16: Log closed!
